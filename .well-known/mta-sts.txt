@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: *.mail.protection.outlook.com
+mx: lawrencearmstrong-ca.mail.protection.outlook.com
 max_age: 7200
